@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Kiro spec files (design docs — keep if you want them tracked, remove this line if so)
+# .kiro/
+
+# Logs
+*.log
